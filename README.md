@@ -1,3 +1,3 @@
-###Chart in pure JavaScript.
+A chart written in pure JavaScript
 
-![alt tag](https://dl.dropboxusercontent.com/u/65161927/github/pure-js-chart/img1.jpg)    
+![alt tag](http://i.imgur.com/F5QxoXI.gif?1)    
