@@ -1,3 +1,1 @@
-A chart written in pure JavaScript
-
-![alt tag](http://i.imgur.com/F5QxoXI.gif?1)    
+![alt tag](http://i.imgur.com/F5QxoXI.gif?1)
